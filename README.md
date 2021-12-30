@@ -23,3 +23,6 @@ This is a modified version of a script IsoFrieze made for use in MAME. Most of t
 The ghosts' target tiles will not be drawn corectly until a ghost gets eaten
 
 The ghost paths should not be drawn during the ghosts' frightened state. This gets corrected when a ghost gets eaten.
+
+## Special Thanks
+I'm no expert when it comes to LUA, so this script would not have been possible if IsoFrieze didn't make the original script. I also wouldn't have been able to modify his script correctly without help from YoshiRulz, feos, and CasualPokePlayer from TASVideos.
