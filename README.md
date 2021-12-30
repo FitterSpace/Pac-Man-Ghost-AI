@@ -10,14 +10,14 @@ This is a modified version of a script IsoFrieze made for use in MAME. Most of t
 
 ## How to Use
 1) Download [this development version of BizHawk](https://ci.appveyor.com/project/zeromus/bizhawk-udexo/build/artifacts) with MAME support
-2) Download the version of BizHawk linked in the first post in [this](http://tasvideos.org/forum/viewtopic.php?t=21778) thread on TASVideos forum. You only need this for a MAME dll file.
-3) take "libmamearcade.dll" (in the dll folder) from the second emulator version you downloaded and place it in the dll folder in the first one you downloaded.
-4) Open the first folder you downloaded and run EmuHawk.exe
-5) Go to File > Open Advanced and select "Launch Game".
-6) Open your Pac-Man rom (pacman.zip)
-7) Go to Tools > Lua console
-8) In the new window that comes up, go to Script > Open Script
-9) Select the Pac-Man Ghost AI LUA script.
+2) Run EmuHawk.exe
+3) Go to File > Open Advanced and select "Launch Game".
+4) Open your Pac-Man rom (pacman.zip)
+5) Go to Tools > Lua console
+6) In the new window that comes up, go to Script > Open Script
+7) Select the Pac-Man Ghost AI LUA script.
+
+You can also drag and drop the script onto the emulator to run it that way.
 
 ## Known Issues
 The ghosts' target tiles will not be drawn corectly until a ghost gets eaten
